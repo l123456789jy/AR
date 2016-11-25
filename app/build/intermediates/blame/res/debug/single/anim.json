@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\androidhome\\AR\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_down.xml",
+        "source": "E:\\androidhome\\AR\\app\\src\\main\\res\\anim\\bottom_down.xml"
+    },
+    {
+        "merged": "E:\\androidhome\\AR\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_up.xml",
+        "source": "E:\\androidhome\\AR\\app\\src\\main\\res\\anim\\bottom_up.xml"
+    }
+]

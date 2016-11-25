@@ -1,0 +1,30 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "22.0.1"
+
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+    defaultConfig {
+        applicationId "com.vuforia.samples.VuforiaSamples"
+        minSdkVersion 14
+        targetSdkVersion 22
+        versionCode 600
+        versionName "6.0"
+    }
+
+    archivesBaseName = rootProject.projectDir.getName()
+	
+    buildTypes {
+
+    }
+}
+
+dependencies {
+    compile files('libs/Vuforia.jar')
+}

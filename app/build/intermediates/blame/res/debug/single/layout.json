@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\androidhome\\AR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash_screen.xml",
+        "source": "E:\\androidhome\\AR\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "E:\\androidhome\\AR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activities_list_text_view.xml",
+        "source": "E:\\androidhome\\AR\\app\\src\\main\\res\\layout\\activities_list_text_view.xml"
+    },
+    {
+        "merged": "E:\\androidhome\\AR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card.xml",
+        "source": "E:\\androidhome\\AR\\app\\src\\main\\res\\layout\\card.xml"
+    },
+    {
+        "merged": "E:\\androidhome\\AR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_overlay_textreco.xml",
+        "source": "E:\\androidhome\\AR\\app\\src\\main\\res\\layout\\camera_overlay_textreco.xml"
+    },
+    {
+        "merged": "E:\\androidhome\\AR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activities_list.xml",
+        "source": "E:\\androidhome\\AR\\app\\src\\main\\res\\layout\\activities_list.xml"
+    },
+    {
+        "merged": "E:\\androidhome\\AR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_overlay.xml",
+        "source": "E:\\androidhome\\AR\\app\\src\\main\\res\\layout\\camera_overlay.xml"
+    },
+    {
+        "merged": "E:\\androidhome\\AR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_group_divider.xml",
+        "source": "E:\\androidhome\\AR\\app\\src\\main\\res\\layout\\sample_app_menu_group_divider.xml"
+    },
+    {
+        "merged": "E:\\androidhome\\AR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_overlay_with_scanline.xml",
+        "source": "E:\\androidhome\\AR\\app\\src\\main\\res\\layout\\camera_overlay_with_scanline.xml"
+    },
+    {
+        "merged": "E:\\androidhome\\AR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_group.xml",
+        "source": "E:\\androidhome\\AR\\app\\src\\main\\res\\layout\\sample_app_menu_group.xml"
+    },
+    {
+        "merged": "E:\\androidhome\\AR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_group_radio_button.xml",
+        "source": "E:\\androidhome\\AR\\app\\src\\main\\res\\layout\\sample_app_menu_group_radio_button.xml"
+    },
+    {
+        "merged": "E:\\androidhome\\AR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_layer.xml",
+        "source": "E:\\androidhome\\AR\\app\\src\\main\\res\\layout\\sample_app_menu_layer.xml"
+    },
+    {
+        "merged": "E:\\androidhome\\AR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_overlay_reticle.xml",
+        "source": "E:\\androidhome\\AR\\app\\src\\main\\res\\layout\\camera_overlay_reticle.xml"
+    },
+    {
+        "merged": "E:\\androidhome\\AR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_screen.xml",
+        "source": "E:\\androidhome\\AR\\app\\src\\main\\res\\layout\\about_screen.xml"
+    },
+    {
+        "merged": "E:\\androidhome\\AR\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_overlay_udt.xml",
+        "source": "E:\\androidhome\\AR\\app\\src\\main\\res\\layout\\camera_overlay_udt.xml"
+    }
+]

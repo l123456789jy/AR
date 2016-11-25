@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\androidhome\\AR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\logo.png",
+        "source": "E:\\androidhome\\AR\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "E:\\androidhome\\AR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\icon.png",
+        "source": "E:\\androidhome\\AR\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    }
+]

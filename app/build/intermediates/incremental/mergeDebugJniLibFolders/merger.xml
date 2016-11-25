@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\androidhome\AR\app\libs"><file name="armeabi-v7a/libVuforia.so" path="E:\androidhome\AR\app\libs\armeabi-v7a\libVuforia.so"/><file name="Vuforia.jar" path="E:\androidhome\AR\app\libs\Vuforia.jar"/></source></dataSet><dataSet config="debug"><source path="E:\androidhome\AR\app\src\debug\jniLibs"/></dataSet></merger>
